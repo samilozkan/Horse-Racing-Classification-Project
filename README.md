@@ -1,7 +1,7 @@
 # Horse-Racing-Classification-Project
 ## Explanation of the Columns of Data
-## 'Date': Date of the race
-## 'City': City of the race
+ * 'Date': Date of the race
+ * 'City': City of the race
 ## 'Race_n_time': Time and number of the race on the given date
 ## 'ID': ID
 ## 'Racer': Racer of current race
